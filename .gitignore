@@ -1,0 +1,11 @@
+/ignore
+*.pdf
+/venv
+__pycache__
+/.idea
+*.pyc
+*.log
+/Persistence
+*.mp3
+/http:
+/cache
